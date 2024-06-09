@@ -14,6 +14,9 @@ This project aims to develop a real-time system for automatically detecting helm
 
 ## Screenshots
 
+![image](https://github.com/rkrahul2195/Bike-Halmet-and-Number-Plate-Detection/assets/117144776/5522ee71-54fd-4cdb-8f3d-e5ae791e8d84)
+
+![image](https://github.com/rkrahul2195/Bike-Halmet-and-Number-Plate-Detection/assets/117144776/08bcef79-9514-41f8-a605-795eaa3b9e11)
 
 
 
